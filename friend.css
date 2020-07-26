@@ -1,0 +1,77 @@
+body
+{
+    background-color: black;
+    padding: 2%;
+    margin: 2%;
+}
+#headin
+{
+    color: cyan;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-style: oblique;
+    font-size:larger;
+    font-weight: bolder;
+}
+#nam
+{
+    color: hotpink;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: normal;
+}
+#noselect
+{
+    color: antiquewhite; 
+    font-size: larger;
+    font-weight: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    display: inline-block;
+}
+#mylist
+{
+    font-size:medium;
+    color:brown;
+    font-family: Verdana;
+    font-style: normal;
+    display: flex;
+    display: inline-block;
+}
+#text
+{
+    font-size: larger;
+    color:ivory;
+    width: 40%;
+    height:30%;
+    text-align: center;
+    margin: 2%;
+    padding: 4%;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Lucida Grande';
+}
+#labe
+{
+    font-size: large;
+    font-style: initial;
+    font-family: initial;
+    color: lightgreen;
+    padding: 1%;
+    margin: 1%;
+
+}
+#col
+{
+    width: 50%;
+    height: 50%;
+}
+#gaper
+{
+    color: yellow;
+    margin-top: 2%;
+}
+#dev
+{
+    background-color: brown;
+}
