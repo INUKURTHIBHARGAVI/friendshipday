@@ -1,4 +1,4 @@
-var arr=["black","green","indigo","grey"];
+var arr=["black","darkgreen","indigo"];
         var k=0;
         setInterval(()=>{
             setcolor(arr)
